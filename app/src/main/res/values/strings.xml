@@ -14,5 +14,9 @@
     <string name="dialog_titulo">Redefinir dados</string>
     <string name="dialog_desc">Deseja excluir todos os dados existentes?</string>
     <string name="alarme_mensagem">Hora de Beber agua!</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="text_cadastro"> Crie sua conta clicando aqui!</string>
+    <string name="title_cadastro"> Cadastre-se</string>
+    <string name="cadastrar">CADASTRE-SE</string>
 
 </resources>
